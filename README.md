@@ -3,9 +3,9 @@
 WhiteText corpus, Bridge models and supplementary information
 # Links to WhiteText corpus
 
-Train data: WhiteTextNegFixFull.xml (Avialable on the link http://dx.doi.org/10.5683/SP2/AARXSN as on 30 June 2020)
+Train data: WhiteTextNegFixFull.xml (Avialable on the link http://dx.doi.org/10.5683/SP2/AARXSN as on 01 Aug 2020)
 
-Test data : WhiteTextUnseenEval.xml (Avialable on the link http://dx.doi.org/10.5683/SP2/4J5NHT as on 30 June 2020)
+Test data : WhiteTextUnseenEval.xml (Avialable on the link http://dx.doi.org/10.5683/SP2/4J5NHT as on 01 Aug 2020)
 # Train and Test Bridge Models
 
 top_Training_bridges.txt : Bridge models generated from the Training data of WhiteText corpus using SyLF-LPBridge algorithm
